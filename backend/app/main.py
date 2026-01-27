@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from app.config import GEMINI_API_KEY
-from app.gemini_service import test_gemini
+from app.avaliation.gemini_service import test_gemini
 
 
 app = FastAPI()
