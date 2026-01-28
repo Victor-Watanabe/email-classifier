@@ -4,8 +4,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import joblib
-from ..nlp_process.vectorization import transform_text, fit_vectorizer, load_vectorizer
-from ..nlp_process.preprocess_text import preprocess_text
+from ..nlp.vectorizer import transform_text, fit_vectorizer, load_vectorizer
+from ..nlp.preprocess import preprocess_text
 from .gemini_service import query_gemini  # função que consulta Gemini API se necessário
 
 # Inicializa o modelo
@@ -44,11 +44,11 @@ def train_classifier(corpus: list, labels: list):
     print(f"Classificador treinado! Accuracy no teste: {acc:.2f}")
 
     # Salva o modelo para uso futuro
-    joblib.dump(model, "cache/classifier_my_llm.joblib")
+    joblib.dump(model, "models/classifier.joblib")
     return model
 
 
-def load_classifier(path: str = "cache/classifier_my_llm.joblib"):
+def load_classifier(path: str = "models/classifier.joblib"):
     """
     Carrega modelo treinado do disco.
     """
