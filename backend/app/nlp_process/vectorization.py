@@ -19,10 +19,10 @@ def fit_vectorizer(corpus: list):
     vectorizer.fit(corpus)
 
     # Cria diretório se não existir
-    os.makedirs("backend/cache", exist_ok=True)
+    os.makedirs("cache", exist_ok=True)
 
     # Salva o vectorizer
-    joblib.dump(vectorizer, "backend/cache/vectorizer.joblib")
+    joblib.dump(vectorizer, "cache/vectorizer.joblib")
     print("Vectorizer treinado e salvo em backend/cache/vectorizer.joblib")
     return vectorizer
 
@@ -39,7 +39,7 @@ def transform_text(text: str):
     global vectorizer
     return vectorizer.transform([text])
 
-def load_vectorizer(path: str = "backend/cache/vectorizer.joblib"):
+def load_vectorizer(path: str = "cache/vectorizer.joblib"):
     """
     Carrega um vetor TF-IDF previamente treinado.
 

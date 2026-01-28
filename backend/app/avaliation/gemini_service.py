@@ -1,5 +1,8 @@
+# backend/app/avaliation/gemini_service.py
+
 import google.generativeai as genai
 from app.config import GEMINI_API_KEY
+import json
 
 # Configura a API com a key
 genai.configure(api_key=GEMINI_API_KEY)
@@ -8,8 +11,21 @@ genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 
-def test_gemini():
-    prompt = """
+def query_gemini(email_text: str):
+    """
+    Envia um email para a Gemini API para classificação e sugestão de resposta.
+
+    Parâmetros:
+        email_text (str): texto do email recebido
+
+    Retorno:
+        dict: {
+            "classification": "PRODUTIVO ou IMPRODUTIVO",
+            "suggested_reply": str,
+            "justification": str
+        }
+    """
+    prompt = f"""
 Você é um sistema automatizado responsável por analisar e classificar
 emails recebidos por uma grande empresa do setor financeiro.
 
@@ -40,21 +56,33 @@ IMPRODUTIVO:
 Formato de Resposta:
 Responda EXCLUSIVAMENTE no seguinte formato JSON:
 
-{
+{{
   "classification": "PRODUTIVO ou IMPRODUTIVO",
   "suggested_reply": "Resposta automática profissional e objetiva",
   "justification": "Breve explicação da decisão"
-}
-
+}}
 
 Texto:
-"Olá, Boa tarde a todos, gostaria de começar desejando o feliz natal para toda a equipe aqui presente
-espero que todos estejam bem e gostaria de tirar algumas dúvidas sobre o novo sistema implantado recentemente, 
-pos está acusando alguns erros agora pela tarde. 
-
- Obrigado e bom final de semana a todos!"
+"{email_text}"
 """
 
+    # Envia prompt para o modelo
     response = model.generate_content(prompt)
+    text = response.text.strip()
 
-    return response.text
+    # Remove bloco de crases se existir (```json ... ```)
+    if text.startswith("```") and text.endswith("```"):
+        text_lines = text.split("\n")
+        # Remove a primeira e última linha do bloco de crases
+        text = "\n".join(text_lines[1:-1])
+
+    # Converte texto em dict
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # Fallback caso não seja JSON válido
+        return {
+            "classification": "Desconhecido",
+            "suggested_reply": response.text,
+            "justification": "Resposta não padronizada pelo modelo Gemini"
+        }
