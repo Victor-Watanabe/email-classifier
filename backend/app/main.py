@@ -10,8 +10,9 @@ app = FastAPI(title="Email Classifier API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_methods=["*"],
+    allow_origins=["*"], # Quais domínios podem acessar.
+    allow_credentials=True,
+    allow_methods=["*"], # Metodos aceito POST, GET, ETC.
     allow_headers=["*"],
 )
 
