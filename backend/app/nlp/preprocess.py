@@ -3,25 +3,26 @@ import spacy
 nlp = spacy.load("pt_core_news_sm")
 
 def preprocess_text(text: str) -> str:
-    
-# converte para minúsculo e cria objeto spaCy
-    doc = nlp(text.lower()) 
+    """
+    Pré-processa texto para o modelo:
+    - converte para minúsculo
+    - remove stopwords e pontuação
+    - aplica lematização
+    - mantém nomes próprios e entidades importantes
+    """
+    doc = nlp(text.lower())
 
-# lista que vai armazenar palavras relevantes
-    tokens = []  
+    tokens = []
 
-# Passa de palavra em palavra pelo documento/texto
     for token in doc:
-       # ignora stop words
-        if token.is_stop:  
+        # ignora stopwords e pontuação
+        if token.is_stop or token.is_punct:
             continue
 
-       # ignora pontuação
-        if token.is_punct:  
-            continue
+        # mantêm nomes próprios e entidades
+        if token.ent_type_ in ["PER", "ORG", "LOC", "MISC"]:
+            tokens.append(token.text)  # mantem forma original para entidades
+        else:
+            tokens.append(token.lemma_)  # lematiza palavras comuns
 
-      # adiciona a forma base da palavra
-        tokens.append(token.lemma_)  
-
-    # retorna texto limpo
-    return " ".join(tokens)  
+    return " ".join(tokens)

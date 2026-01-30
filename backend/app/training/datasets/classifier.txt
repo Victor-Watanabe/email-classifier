@@ -1,171 +1,360 @@
-bom dia pessoal tudo bem|IMPRODUTIVO
-preciso revisar o contrato antes da assinatura|PRODUTIVO
-agradeço pelo retorno rápido|IMPRODUTIVO
-favor confirmar recebimento dos documentos enviados|PRODUTIVO
-feliz natal e boas festas|IMPRODUTIVO
-solicito aprovação da solicitação de compra|PRODUTIVO
-ok combinado|IMPRODUTIVO
-pedido de material para o setor de ti|PRODUTIVO
-parabéns pelo excelente trabalho|IMPRODUTIVO
-requisição em análise pelo gestor responsável|PRODUTIVO
-boa tarde equipe|IMPRODUTIVO
-ordem de serviço criada com sucesso|PRODUTIVO
-estou apenas passando para avisar|IMPRODUTIVO
-processo finalizado com êxito|PRODUTIVO
-sem novidades por enquanto|IMPRODUTIVO
-cliente solicitou alteração no cadastro|PRODUTIVO
-mensagem informativa sem ação necessária|IMPRODUTIVO
-necessário atualizar endereço do cliente|PRODUTIVO
-tudo certo obrigado|IMPRODUTIVO
-dados cadastrais incorretos no sistema|PRODUTIVO
-feliz aniversário muitas felicidades|IMPRODUTIVO
-registro duplicado encontrado na base|PRODUTIVO
-boa noite a todos|IMPRODUTIVO
-favor corrigir informações do cliente|PRODUTIVO
-show de bola|IMPRODUTIVO
-pagamento agendado para a próxima semana|PRODUTIVO
-agradeço imensamente pela ajuda|IMPRODUTIVO
-financeiro solicita reenvio da nota fiscal|PRODUTIVO
-apenas para conhecimento|IMPRODUTIVO
-boleto vencido precisa ser regularizado|PRODUTIVO
-vamos conversando|IMPRODUTIVO
-pendência financeira identificada|PRODUTIVO
-fico no aguardo|IMPRODUTIVO
-ajuste de valor solicitado pelo fornecedor|PRODUTIVO
-bom trabalho a todos|IMPRODUTIVO
-sistema indisponível desde o início da manhã|PRODUTIVO
-mensagem automática|IMPRODUTIVO
-erro ao tentar gerar relatório no sistema|PRODUTIVO
-qualquer coisa me avise|IMPRODUTIVO
-falha detectada no módulo de autenticação|PRODUTIVO
-boa tarde pessoal espero que estejam bem|IMPRODUTIVO
-problema recorrente no acesso ao portal|PRODUTIVO
-mensagem de rotina|IMPRODUTIVO
-necessário abrir chamado para suporte técnico|PRODUTIVO
-sucesso na atividade|IMPRODUTIVO
-preciso reagendar a reunião devido a conflito de agenda|PRODUTIVO
-atenciosamente|IMPRODUTIVO
-reunião cancelada por indisponibilidade do gestor|PRODUTIVO
-cordialmente|IMPRODUTIVO
-enviarei a pauta da reunião em breve|PRODUTIVO
-estamos à disposição|IMPRODUTIVO
-favor confirmar disponibilidade para a reunião|PRODUTIVO
-mensagem institucional|IMPRODUTIVO
-ata da reunião será enviada ainda hoje|PRODUTIVO
-apenas um lembrete|IMPRODUTIVO
-solicitação de férias registrada no sistema|PRODUTIVO
-att|IMPRODUTIVO
-licença médica anexada para análise|PRODUTIVO
-mensagem sem ação|IMPRODUTIVO
-afastamento temporário aprovado pelo rh|PRODUTIVO
-retorno ao trabalho previsto para segunda feira|PRODUTIVO
-excelente notícia|IMPRODUTIVO
-necessário validar os dados antes do envio|PRODUTIVO
-mensagem de acompanhamento|IMPRODUTIVO
-ajuste solicitado pelo cliente no contrato|PRODUTIVO
-informação geral|IMPRODUTIVO
-processo em análise pela área responsável|PRODUTIVO
-aviso simples|IMPRODUTIVO
-aguardando retorno da aprovação|PRODUTIVO
-mensagem cordial|IMPRODUTIVO
-documentação pendente para conclusão|PRODUTIVO
-confirmação de leitura|IMPRODUTIVO
-pedido registrado no sistema com sucesso|PRODUTIVO
-saudações|IMPRODUTIVO
-chamado técnico aberto para verificação|PRODUTIVO
-cumprimentos|IMPRODUTIVO
-erro identificado durante a integração|PRODUTIVO
-nota informativa|IMPRODUTIVO
-necessário atualizar versão do sistema|PRODUTIVO
-aviso padrão|IMPRODUTIVO
-relatório enviado para conferência|PRODUTIVO
-mensagem de boas vindas|IMPRODUTIVO
-pendência resolvida após ajuste|PRODUTIVO
-informação complementar|IMPRODUTIVO
-solicitação em andamento|PRODUTIVO
-retorno apenas informativo|IMPRODUTIVO
-fluxo aprovado pelo gestor imediato|PRODUTIVO
-mensagem padrão|IMPRODUTIVO
-atividade concluída conforme solicitado|PRODUTIVO
-estamos alinhados|IMPRODUTIVO
-demanda registrada para análise|PRODUTIVO
-seguimos acompanhando|IMPRODUTIVO
-prazo ajustado conforme solicitação|PRODUTIVO
-só para avisar|IMPRODUTIVO
-processo segue em validação|PRODUTIVO
-aviso geral|IMPRODUTIVO
-encaminhado para setor responsável|PRODUTIVO
-mensagem informativa|IMPRODUTIVO
-necessário alinhar escopo do projeto|PRODUTIVO
-tudo certo por aqui|IMPRODUTIVO
-erro corrigido em produção|PRODUTIVO
-abraços|IMPRODUTIVO
-deploy realizado com sucesso|PRODUTIVO
-mensagem simples|IMPRODUTIVO
-teste finalizado sem inconsistências|PRODUTIVO
-qualquer dúvida avise|IMPRODUTIVO
-dados enviados para homologação|PRODUTIVO
-grato pela atenção|IMPRODUTIVO
-chamado encerrado após validação|PRODUTIVO
-mensagem genérica|IMPRODUTIVO
-orçamento aprovado pelo financeiro|PRODUTIVO
-boas festas para todos|IMPRODUTIVO
-ajuste técnico solicitado|PRODUTIVO
-desejo uma ótima semana a todos|IMPRODUTIVO
-implementação em andamento|PRODUTIVO
-obrigado pela atenção|IMPRODUTIVO
-demanda priorizada pela equipe|PRODUTIVO
-excelente trabalho realizado pela equipe|IMPRODUTIVO
-atividade registrada no backlog|PRODUTIVO
-apenas informando|IMPRODUTIVO
-validação concluída com sucesso|PRODUTIVO
-estou só acompanhando|IMPRODUTIVO
-análise técnica finalizada|PRODUTIVO
-mensagem sem impacto|IMPRODUTIVO
-documento enviado para assinatura|PRODUTIVO
-fico à disposição|IMPRODUTIVO
-necessário retorno para prosseguimento|PRODUTIVO
-mensagem institucional padrão|IMPRODUTIVO
-processo iniciado conforme combinado|PRODUTIVO
-mensagem automática do sistema|IMPRODUTIVO
-fluxo aprovado sem ressalvas|PRODUTIVO
-bom dia pessoal espero que estejam bem|IMPRODUTIVO
-necessário verificar inconsistência no relatório gerado|PRODUTIVO
-agradeço pelo retorno rápido|IMPRODUTIVO
-solicito ajuste no cadastro do fornecedor|PRODUTIVO
-boa tarde a todos|IMPRODUTIVO
-erro identificado na integração com o sistema externo|PRODUTIVO
-mensagem apenas para conhecimento|IMPRODUTIVO
-favor validar os dados antes do envio final|PRODUTIVO
-parabéns pelo esforço coletivo|IMPRODUTIVO
-pendência identificada no processo de faturamento|PRODUTIVO
-fico no aguardo de novidades|IMPRODUTIVO
-pedido de aprovação encaminhado para o gestor|PRODUTIVO
-obrigado pela atenção|IMPRODUTIVO
-solicitação reprovada por falta de documentação|PRODUTIVO
-bom trabalho a todos|IMPRODUTIVO
-necessário reprocessar o arquivo enviado anteriormente|PRODUTIVO
-mensagem informativa sem necessidade de ação|IMPRODUTIVO
-ajuste solicitado no prazo de entrega|PRODUTIVO
-espero que todos estejam bem|IMPRODUTIVO
-cliente solicita reenvio da proposta comercial|PRODUTIVO
-passando apenas para avisar|IMPRODUTIVO
-processo aguardando validação do setor responsável|PRODUTIVO
-ótimo trabalho realizado|IMPRODUTIVO
-erro recorrente ao acessar o sistema interno|PRODUTIVO
-agradeço desde já|IMPRODUTIVO
-favor atualizar status da solicitação no portal|PRODUTIVO
-seguimos em contato|IMPRODUTIVO
-necessário abrir chamado para correção do erro|PRODUTIVO
-obrigado pelo apoio de sempre|IMPRODUTIVO
-documentação enviada para análise do jurídico|PRODUTIVO
-mensagem de acompanhamento apenas|IMPRODUTIVO
-prazo de entrega alterado conforme solicitação|PRODUTIVO
-qualquer novidade aviso|IMPRODUTIVO
-falha detectada durante execução do processo|PRODUTIVO
-boa noite equipe|IMPRODUTIVO
-necessário alinhar requisitos antes da implementação|PRODUTIVO
-agradeço imensamente pela ajuda|IMPRODUTIVO
-ajuste realizado conforme solicitado pelo cliente|PRODUTIVO
-mensagem sem ação necessária|IMPRODUTIVO
-atividade concluída e registrada no sistema|PRODUTIVO
+Bom dia, equipe. Preciso que revisem o relatório financeiro do mês passado e me enviem qualquer divergência encontrada. |PRODUTIVO
+Boa tarde, favor encaminhar os documentos pendentes para conferência do setor financeiro. |PRODUTIVO
+Olá João, apenas para informar que o sistema ficará em manutenção das 22h às 02h. |IMPRODUTIVO
+Prezada Maria, encaminho os contratos assinados para validação final. |PRODUTIVO
+Feliz Natal! Espero que todos tenham ótimas festas e um excelente ano novo. |IMPRODUTIVO
+Boa noite, estou apenas verificando se todos receberam a atualização do sistema enviada hoje. |IMPRODUTIVO
+Prezada equipe, solicito que rodem os testes automáticos do software antes da implantação. |PRODUTIVO
+Bom dia, favor confirmar o recebimento dos arquivos anexados e se estão corretos. |PRODUTIVO
+Olá pessoal, desejo a todos um ótimo dia e sucesso nas atividades de hoje! |IMPRODUTIVO
+Prezada Maria, favor revisar a planilha de indicadores antes da consolidação final do mês. |PRODUTIVO
+Bom dia, lembrando que o backup do servidor será realizado à noite. |IMPRODUTIVO
+Olá equipe, preciso que as pendências do projeto sejam enviadas até o final do dia. |PRODUTIVO
+Feliz Ano Novo! Que este novo ciclo seja de grandes conquistas e realizações. |IMPRODUTIVO
+Boa tarde João, poderia atualizar a planilha de estoque com os dados mais recentes? |PRODUTIVO
+Prezada equipe, houve falha ao processar a requisição no sistema; necessitamos análise urgente. |PRODUTIVO
+Olá, apenas avisando que a reunião semanal foi adiada para quarta-feira às 14h. |IMPRODUTIVO
+Bom dia, favor validar os contratos assinados e arquivar corretamente no sistema. |PRODUTIVO
+Boa noite, apenas passando para desejar boa sorte no encerramento do trimestre. |IMPRODUTIVO
+Prezada equipe de TI, identificar e corrigir lentidão no portal corporativo. |PRODUTIVO
+Olá João, gostaria que revisasse os lançamentos contábeis pendentes antes do fechamento mensal. |PRODUTIVO
+Bom dia a todos, espero que estejam bem! |IMPRODUTIVO
+Prezada Maria, favor encaminhar relatórios pendentes para conferência do jurídico. |PRODUTIVO
+Feliz Natal a todos! Que as festas sejam felizes e cheias de alegria. |IMPRODUTIVO
+Boa tarde, equipe de suporte identificou erro na autenticação de usuários; ação necessária. |PRODUTIVO
+Olá, apenas informando que o servidor ficará indisponível por manutenção programada. |IMPRODUTIVO
+Prezada equipe, precisamos consolidar as informações de clientes até quinta-feira. |PRODUTIVO
+Bom dia, apenas para informar que todas as tarefas da semana foram concluídas com sucesso. |IMPRODUTIVO
+Boa noite João, favor revisar documentos fiscais pendentes e enviar retorno. |PRODUTIVO
+Olá equipe, apenas lembrando sobre o prazo de entrega dos relatórios desta semana. |IMPRODUTIVO
+Prezada Maria, encaminhar planilha com indicadores de vendas atualizados. |PRODUTIVO
+Bom dia, só passando para desejar um ótimo começo de semana a todos. |IMPRODUTIVO
+Boa tarde, favor confirmar presença na reunião de alinhamento marcada para amanhã às 11h. |PRODUTIVO
+Olá equipe, apenas para informar que a atualização do sistema foi realizada com sucesso. |IMPRODUTIVO
+Prezada equipe de RH, enviar lista de férias programadas para o próximo trimestre. |PRODUTIVO
+Bom dia, agradeço imensamente pela colaboração de todos durante o fechamento do mês. |IMPRODUTIVO
+Boa noite, alerto que houve inconsistência nos dados do CRM; favor revisar. |PRODUTIVO
+Feliz Ano Novo! Que todos tenham muito sucesso em seus projetos. |IMPRODUTIVO
+Olá João, favor revisar os contratos de fornecedores antes da assinatura final. |PRODUTIVO
+Prezada equipe, houve atraso no pagamento dos fornecedores; ação necessária. |PRODUTIVO
+Bom dia, apenas passando para agradecer pelo ótimo suporte prestado ontem. |IMPRODUTIVO
+Boa tarde, equipe de TI, identificar falha no sistema de login corporativo. |PRODUTIVO
+Olá pessoal, lembrando que a reunião de alinhamento será às 14h na sala principal. |IMPRODUTIVO
+Prezada Maria, encaminhar relatórios financeiros consolidados do trimestre. |PRODUTIVO
+Bom dia, alerto que o portal corporativo ficará indisponível hoje à noite para manutenção. |PRODUTIVO
+Olá, apenas informando que todos os documentos foram recebidos e conferidos. |IMPRODUTIVO
+Boa tarde João, favor atualizar planilha de controle de estoque com os dados do mês atual. |PRODUTIVO
+Prezada equipe, houve falha na integração do sistema financeiro; favor análise urgente. |PRODUTIVO
+Feliz Natal! Espero que todos aproveitem bem as festas de fim de ano. |IMPRODUTIVO
+Bom dia a todos, apenas informando que os tickets de suporte foram todos resolvidos. |IMPRODUTIVO
+Olá equipe, favor revisar pendências de projeto e enviar relatório detalhado. |PRODUTIVO
+Prezada Maria, encaminhar contratos pendentes para registro definitivo. |PRODUTIVO
+Boa noite, apenas passando para desejar boa semana a todos. |IMPRODUTIVO
+Olá João, alerto sobre inconsistência no sistema de aprovação de pagamentos. |PRODUTIVO
+Prezada equipe, consolidar informações de auditoria e enviar relatório final. |PRODUTIVO
+Bom dia, agradeço a todos pela colaboração e empenho nesta semana. |IMPRODUTIVO
+Boa tarde, equipe. Favor revisar o orçamento de marketing e enviar observações até o final do dia. |PRODUTIVO
+Olá João, apenas para confirmar que o relatório de inventário foi recebido corretamente. |PRODUTIVO
+Bom dia, lembrando que a reunião de acompanhamento do projeto será às 15h. |PRODUTIVO
+Prezada Maria, solicito atualização das metas trimestrais para consolidação no sistema. |PRODUTIVO
+Olá pessoal, apenas para desejar um ótimo final de semana a todos! |IMPRODUTIVO
+Boa noite, equipe de TI, identificar instabilidade no acesso remoto e registrar chamado. |PRODUTIVO
+Feliz Ano Novo! Que todos alcancem seus objetivos e metas este ano. |IMPRODUTIVO
+Prezada equipe, favor encaminhar notas fiscais pendentes para conferência no financeiro. |PRODUTIVO
+Bom dia João, poderia revisar os contratos de fornecedores e enviar feedback? |PRODUTIVO
+Olá Maria, agradeço pelo retorno rápido sobre a solicitação enviada ontem. |IMPRODUTIVO
+Boa tarde, equipe, houve falha na sincronização dos dados do ERP; ação necessária. |PRODUTIVO
+Prezados, apenas para informar que o portal estará em manutenção amanhã à noite. |IMPRODUTIVO
+Olá João, favor atualizar planilha de estoque com as novas entradas e saídas. |PRODUTIVO
+Bom dia, lembrando que todos os tickets de suporte devem ser finalizados até sexta-feira. |PRODUTIVO
+Olá pessoal, desejo um ótimo dia e muito sucesso nas atividades de hoje! |IMPRODUTIVO
+Prezada Maria, solicito encaminhamento do relatório de despesas atualizado. |PRODUTIVO
+Boa noite, apenas informando que os arquivos enviados foram recebidos e conferidos. |IMPRODUTIVO
+Olá equipe, favor consolidar informações do setor financeiro e enviar relatório final. |PRODUTIVO
+Bom dia, alerta sobre inconsistência nos lançamentos contábeis do mês passado. |PRODUTIVO
+Feliz Natal! Que todos tenham ótimas festas e momentos felizes com a família. |IMPRODUTIVO
+Prezada equipe, verificar status de aprovação dos pedidos registrados no sistema. |PRODUTIVO
+Olá João, apenas passando para lembrar sobre o envio da documentação pendente. |PRODUTIVO
+Bom dia, agradeço a todos pelo empenho na entrega das demandas desta semana. |IMPRODUTIVO
+Prezada Maria, favor validar planilhas de indicadores antes da consolidação mensal. |PRODUTIVO
+Boa tarde, equipe, identificar e corrigir falhas na integração do sistema interno. |PRODUTIVO
+Olá pessoal, apenas para desejar boa sorte na apresentação do projeto hoje. |IMPRODUTIVO
+Bom dia João, favor revisar contratos pendentes e enviar retorno até o final do dia. |PRODUTIVO
+Prezada equipe, houve atraso no processamento de pagamentos; análise urgente. |PRODUTIVO
+Olá, apenas informando que o treinamento interno foi cancelado esta semana. |IMPRODUTIVO
+Boa noite, equipe, favor enviar relatório de status do projeto até amanhã. |PRODUTIVO
+Prezada Maria, encaminhar planilha de acompanhamento de clientes atualizada. |PRODUTIVO
+Bom dia, lembrando que a reunião de alinhamento será às 14h no auditório principal. |PRODUTIVO
+Olá pessoal, desejo um excelente fim de tarde a todos! |IMPRODUTIVO
+Boa tarde João, favor confirmar recebimento dos arquivos enviados pelo jurídico. |PRODUTIVO
+Prezada equipe, houve instabilidade no sistema de login; verificar e corrigir. |PRODUTIVO
+Feliz Ano Novo! Que este novo ciclo seja repleto de realizações e aprendizados. |IMPRODUTIVO
+Bom dia, apenas informando que todos os tickets de suporte foram solucionados. |PRODUTIVO
+Olá Maria, favor encaminhar relatórios fiscais pendentes para conferência. |PRODUTIVO
+Boa noite, equipe, agradeço pelo empenho e colaboração durante esta semana. |IMPRODUTIVO
+Prezada equipe, verificar inconsistências nos dados de cadastro e reportar até amanhã. |PRODUTIVO
+Olá João, apenas lembrando que a reunião de planejamento foi adiada para quinta-feira. |IMPRODUTIVO
+Bom dia, favor atualizar o status das requisições enviadas na última semana. |PRODUTIVO
+Boa tarde, equipe, feliz ano novo! Por favor, revisem o cronograma de entregas do projeto e confirmem se há pendências antes da reunião de alinhamento. |PRODUTIVO
+Olá João, feliz carnaval! Gostaria que você verificasse os contratos pendentes e me retornasse com status atualizado até sexta-feira. |PRODUTIVO
+Prezada Maria, bom feriado! Favor encaminhar o relatório detalhado das vendas do mês anterior para análise do financeiro e preparação do fechamento trimestral. |PRODUTIVO
+Caros colegas, feliz natal! Lembrando que precisamos validar as atualizações do sistema antes do final do expediente desta quinta-feira. |PRODUTIVO
+Olá equipe de suporte, bom dia! Desejo a todos um ótimo início de semana. Solicito que acompanhem e resolvam os tickets de prioridade alta antes do almoço. |PRODUTIVO
+Boa tarde, equipe! Solicito que verifiquem o status dos contratos pendentes e me retornem até o final do dia. Obrigado. |PRODUTIVO
+Prezada Maria, feliz ano novo! Peço que envie os relatórios financeiros consolidados do mês passado. Fico no aguardo. |PRODUTIVO
+Olá João, bom dia! Poderia confirmar se os dados do cliente José foram atualizados corretamente no sistema? |PRODUTIVO
+Caros colegas, boa tarde! Lembrando que a entrega do material solicitado precisa ser finalizada até amanhã. Agradeço a atenção. |PRODUTIVO
+Prezada equipe de suporte, bom dia! Detectei uma falha no sistema de cadastro e solicito análise urgente. Obrigado. |PRODUTIVO
+Boa noite, equipe! Favor revisar as solicitações de férias pendentes e registrar no sistema até o final do dia. |PRODUTIVO
+Olá equipe de vendas, bom dia! Solicito consolidação das propostas enviadas para os clientes na última semana. Obrigado. |PRODUTIVO
+Prezados, feliz carnaval! Apenas lembrando que todos os relatórios de despesas devem ser conferidos antes do fechamento mensal. |PRODUTIVO
+Boa tarde João, peço que atualize a planilha de estoque e confirme o envio dos materiais ao setor de produção. Grato. |PRODUTIVO
+Prezada equipe de RH, bom dia! Favor enviar a lista atualizada de colaboradores em período de férias para validação. |PRODUTIVO
+Caros colegas, boa tarde! Necessário revisar os contratos com fornecedores antes do pagamento final. Agradeço retorno. |PRODUTIVO
+Olá equipe de TI, bom dia! Detectamos lentidão no portal corporativo e solicitamos verificação urgente para resolução do problema. |PRODUTIVO
+Prezada equipe financeira, bom dia! Solicito envio do demonstrativo de notas fiscais para conferência antes do fechamento do mês. |PRODUTIVO
+Boa tarde, pessoal! Apenas reforçando que o cadastro dos clientes que teve alteração precisa ser atualizado imediatamente. Obrigado. |PRODUTIVO
+Olá João, bom dia! Solicito que confirme a aprovação das solicitações de compra pendentes e me envie feedback. |PRODUTIVO
+Boa tarde, preciso que atualize o cadastro do cliente João até amanhã.|PRODUTIVO
+Olá equipe, favor enviar o relatório de vendas do último trimestre.|PRODUTIVO
+Feliz Ano Novo! Solicito envio do demonstrativo financeiro do mês passado.|PRODUTIVO
+Bom dia, houve divergência nos dados do sistema, preciso de correção urgente.|PRODUTIVO
+Prezados, favor confirmar recebimento da documentação enviada.|PRODUTIVO
+Olá, agradeço pelo retorno rápido, mas ainda aguardo a validação do contrato.|PRODUTIVO
+Boa noite, envio anexo o contrato assinado para conferência.|PRODUTIVO
+Feliz Natal! Necessário confirmar aprovação da solicitação de compra.|PRODUTIVO
+Bom dia, alerta sobre pendência financeira detectada no sistema.|PRODUTIVO
+Prezada equipe, solicito reagendamento da reunião de alinhamento.|PRODUTIVO
+Olá, apenas informando que o boleto vencido precisa ser regularizado.|PRODUTIVO
+Boa tarde, preciso que o relatório de despesas seja enviado até sexta-feira.|PRODUTIVO
+Prezados, favor validar os dados antes do envio final dos documentos.|PRODUTIVO
+Bom dia, houve erro na integração do sistema, solicito suporte técnico.|PRODUTIVO
+Feliz feriado! Preciso da atualização das notas fiscais do mês passado.|PRODUTIVO
+Olá equipe, favor encaminhar os arquivos pendentes para o departamento.|PRODUTIVO
+Boa noite, informo que o processo de aprovação está em análise pelo gestor.|PRODUTIVO
+Prezados, solicito confirmação de presença na reunião semanal.|PRODUTIVO
+Bom dia, envio resumo das pendências do projeto e próximos passos.|PRODUTIVO
+Feliz Ano Novo! Favor revisar e enviar feedback sobre o contrato.|PRODUTIVO
+Olá, apenas um lembrete sobre a entrega de documentos pendentes.|PRODUTIVO
+Boa tarde, necessário ajustar valores no sistema antes do fechamento.|PRODUTIVO
+Prezada equipe de RH, solicito envio das férias programadas.|PRODUTIVO
+Bom dia, houve falha no módulo de autenticação, preciso de análise.|PRODUTIVO
+Feliz Natal! Favor encaminhar a proposta solicitada para avaliação.|PRODUTIVO
+Olá, informe se os relatórios enviados correspondem aos valores corretos.|PRODUTIVO
+Boa noite, preciso que atualizem os dados do cliente José.|PRODUTIVO
+Prezados, favor confirmar se os pedidos foram encaminhados.|PRODUTIVO
+Bom dia, envio orientações para preenchimento correto dos formulários.|PRODUTIVO
+Feliz Ano Novo! Necessário consolidar o relatório financeiro do trimestre.|PRODUTIVO
+Olá equipe, apenas lembrando que o sistema terá manutenção amanhã.|PRODUTIVO
+Boa tarde, favor confirmar disponibilidade para reunião de alinhamento.|PRODUTIVO
+Prezada Maria, solicito envio das notas fiscais pendentes.|PRODUTIVO
+Bom dia, houve divergência no pagamento do fornecedor, favor corrigir.|PRODUTIVO
+Olá, apenas informando que a reunião foi remarcada para quarta-feira.|PRODUTIVO
+Feliz feriado! Solicito validação dos dados cadastrais do cliente.|PRODUTIVO
+Boa noite, preciso de suporte técnico para resolver problema do sistema.|PRODUTIVO
+Prezados, favor enviar relatório consolidado do setor até sexta-feira.|PRODUTIVO
+Bom dia, alerta sobre inconsistência nos dados do CRM, favor revisar.|PRODUTIVO
+Olá equipe, envio ata da reunião anterior em anexo.|PRODUTIVO
+Boa tarde, necessário liberar pagamento pendente no sistema financeiro.|PRODUTIVO
+Prezados, solicito aprovação do pedido de material enviado ao setor.|PRODUTIVO
+Bom dia, apenas lembrando que o backup será realizado à noite.|PRODUTIVO
+Olá, favor validar dados antes de enviar relatório final.|PRODUTIVO
+Feliz Natal! Necessário reprocessar arquivo enviado anteriormente.|PRODUTIVO
+Boa noite, envio documentação pendente para conferência.|PRODUTIVO
+Prezados, solicito abertura de chamado técnico urgente.|PRODUTIVO
+Bom dia, favor encaminhar proposta comercial para análise do cliente.|PRODUTIVO
+Olá, apenas para ciência, atualização realizada com sucesso.|PRODUTIVO
+Feliz Ano Novo! Preciso do status do pedido registrado no sistema.|PRODUTIVO
+Boa tarde, necessário ajustar valor do contrato enviado pelo fornecedor.|PRODUTIVO
+Prezados, favor reenviar boleto vencido para regularização.|PRODUTIVO
+Bom dia, alerta sobre pendência de pagamento de fornecedor.|PRODUTIVO
+Olá equipe, envio detalhamento de demandas prioritárias para validação.|PRODUTIVO
+Boa noite, favor confirmar recebimento dos arquivos enviados.|PRODUTIVO
+Feliz feriado! Necessário atualização cadastral do cliente.|PRODUTIVO
+Prezados, solicito envio do demonstrativo de resultados atualizado.|PRODUTIVO
+Bom dia, houve atraso na liberação de pagamento pendente.|PRODUTIVO
+Olá, apenas informando que o processo segue em análise pelo gestor.|PRODUTIVO
+Boa tarde, favor reagendar reunião semanal da equipe de vendas.|PRODUTIVO
+Prezados, envio contrato assinado conforme solicitado.|PRODUTIVO
+Bom dia, alerta sobre falha detectada na plataforma corporativa.|PRODUTIVO
+Olá equipe, envio instruções para preenchimento de formulário interno.|PRODUTIVO
+Feliz Ano Novo! Necessário atualizar cadastro do cliente antes de sexta.|PRODUTIVO
+Boa noite, favor validar nota fiscal antes de enviar pagamento.|PRODUTIVO
+Prezados, solicito envio do relatório de custos operacionais.|PRODUTIVO
+Bom dia, apenas informando que o servidor ficará em manutenção.|PRODUTIVO
+Olá, favor encaminhar documentos pendentes ao departamento responsável.|PRODUTIVO
+Boa tarde, necessário confirmar aprovação da solicitação de compra.|PRODUTIVO
+Feliz Natal! Preciso de retorno urgente sobre a solicitação enviada.|PRODUTIVO
+Prezados, envio orientações sobre abertura de chamados técnicos.|PRODUTIVO
+Bom dia, alerta sobre inconsistência em dados contábeis identificados.|PRODUTIVO
+Olá equipe, favor revisar proposta comercial antes do envio.|PRODUTIVO
+Boa noite, solicito atualização cadastral do cliente José.|PRODUTIVO
+Feliz Ano Novo! Necessário envio de relatório financeiro consolidado.|PRODUTIVO
+Prezados, favor encaminhar arquivos pendentes para conferência.|PRODUTIVO
+Bom dia, apenas lembrando que o prazo de entrega é até sexta-feira.|PRODUTIVO
+Olá, solicito aprovação de requisição analisada pelo gestor.|PRODUTIVO
+Boa tarde, envio resumo de pendências e próximos passos do projeto.|PRODUTIVO
+Feliz feriado! Necessário reagendar reunião da equipe de TI.|PRODUTIVO
+Prezados, favor confirmar recebimento do relatório mensal.|PRODUTIVO
+Bom dia, alerta sobre falha detectada na autenticação de usuário.|PRODUTIVO
+Olá equipe, envio documentação para validação do setor jurídico.|PRODUTIVO
+Boa noite, necessário atualizar cadastro do cliente antes do fechamento.|PRODUTIVO
+Feliz Ano Novo! Favor encaminhar proposta comercial para análise.|PRODUTIVO
+Prezados, envio relatório detalhado das vendas do último trimestre.|PRODUTIVO
+Bom dia, apenas informando que o pagamento pendente foi regularizado.|PRODUTIVO
+Olá, favor validar dados antes do envio do demonstrativo final.|PRODUTIVO
+Boa tarde, necessário abertura de chamado técnico urgente para análise.|PRODUTIVO
+Feliz Natal! Solicito envio de documentos pendentes para conferência.|PRODUTIVO
+Prezados, envio resumo da reunião e próximos passos para validação.|PRODUTIVO
+Bom dia, alerta sobre inconsistência detectada nos arquivos do sistema.|PRODUTIVO
+Olá equipe, favor enviar documentação pendente para conferência.|PRODUTIVO
+Boa noite, necessário reprocessar relatório financeiro enviado anteriormente.|PRODUTIVO
+Feliz Ano Novo! Favor confirmar recebimento da documentação enviada.|PRODUTIVO
+Bom dia, apenas passando para desejar um excelente início de semana.|IMPRODUTIVO
+Boa tarde a todos, espero que estejam bem.|IMPRODUTIVO
+Feliz aniversário, muitas felicidades e sucesso.|IMPRODUTIVO
+Feliz Natal e boas festas para toda a equipe.|IMPRODUTIVO
+Bom feriado, aproveitem o descanso.|IMPRODUTIVO
+Olá equipe, só queria cumprimentar a todos.|IMPRODUTIVO
+Boa noite, espero que tenham tido um ótimo dia.|IMPRODUTIVO
+Apenas lembrando que estamos à disposição para qualquer dúvida.|IMPRODUTIVO
+Bom dia, que todos tenham uma semana produtiva.|IMPRODUTIVO
+Feliz Ano Novo! Que seja um ano de realizações.|IMPRODUTIVO
+Olá, passando apenas para desejar bom dia.|IMPRODUTIVO
+Boa tarde, espero que todos estejam bem.|IMPRODUTIVO
+Feliz feriado prolongado! Aproveitem com a família.|IMPRODUTIVO
+Parabéns pelo esforço da equipe na última semana.|IMPRODUTIVO
+Boa noite, apenas verificando se todos estão bem.|IMPRODUTIVO
+Olá, apenas envio uma saudação cordial.|IMPRODUTIVO
+Bom dia, desejo um excelente dia a todos.|IMPRODUTIVO
+Feliz Páscoa! Que seja um momento de alegria.|IMPRODUTIVO
+Olá equipe, passando para cumprimentar todos.|IMPRODUTIVO
+Boa tarde, espero que a semana esteja indo bem.|IMPRODUTIVO
+Feliz carnaval, aproveitem os dias de folga.|IMPRODUTIVO
+Olá, apenas compartilhando uma saudação rápida.|IMPRODUTIVO
+Bom dia a todos, espero que tenham um bom café.|IMPRODUTIVO
+Boa tarde, lembrando que estamos à disposição.|IMPRODUTIVO
+Feliz Natal! Que todos aproveitem as festas.|IMPRODUTIVO
+Olá, só para desejar um ótimo final de semana.|IMPRODUTIVO
+Boa noite, espero que o dia tenha sido produtivo.|IMPRODUTIVO
+Feliz Ano Novo a todos os colegas!|IMPRODUTIVO
+Bom dia, que o dia seja leve e agradável.|IMPRODUTIVO
+Boa tarde, apenas para cumprimentar a equipe.|IMPRODUTIVO
+Olá, desejando boas energias para a semana.|IMPRODUTIVO
+Feliz Natal! Que seja um momento de união.|IMPRODUTIVO
+Boa noite, apenas um contato cordial.|IMPRODUTIVO
+Olá, enviando um abraço virtual para todos.|IMPRODUTIVO
+Bom dia, espero que todos tenham descansado bem.|IMPRODUTIVO
+Feliz Ano Novo! Que seja um ano de conquistas.|IMPRODUTIVO
+Boa tarde, apenas para desejar uma boa tarde.|IMPRODUTIVO
+Olá, só passando para mandar cumprimentos.|IMPRODUTIVO
+Bom dia, que todos tenham uma ótima manhã.|IMPRODUTIVO
+Feliz Páscoa, momentos de alegria e paz.|IMPRODUTIVO
+Olá equipe, lembrando que estamos disponíveis para qualquer dúvida.|IMPRODUTIVO
+Boa noite, desejando um ótimo descanso.|IMPRODUTIVO
+Feliz carnaval, aproveitem os dias de lazer.|IMPRODUTIVO
+Bom dia, só para dizer que espero que estejam bem.|IMPRODUTIVO
+Olá, envio uma mensagem rápida de saudação.|IMPRODUTIVO
+Boa tarde, espero que todos tenham um bom dia.|IMPRODUTIVO
+Feliz Ano Novo! Que todos realizem suas metas.|IMPRODUTIVO
+Bom dia, passando apenas para cumprimentar a equipe.|IMPRODUTIVO
+Olá, desejo um ótimo dia de trabalho para todos.|IMPRODUTIVO
+Boa noite, espero que tenham um descanso agradável.|IMPRODUTIVO
+Feliz Natal! Momentos de alegria e união familiar.|IMPRODUTIVO
+Olá, apenas para desejar boas energias nesta semana.|IMPRODUTIVO
+Boa tarde, lembrando que todos estão fazendo um ótimo trabalho.|IMPRODUTIVO
+Bom dia, espero que todos tenham uma boa segunda-feira.|IMPRODUTIVO
+Olá, envio cumprimentos a todos os colegas.|IMPRODUTIVO
+Feliz Ano Novo! Que seja um ano de aprendizados.|IMPRODUTIVO
+Boa noite, apenas para enviar uma saudação cordial.|IMPRODUTIVO
+Olá, espero que todos estejam com saúde e bem-estar.|IMPRODUTIVO
+Bom dia, desejo uma ótima quarta-feira a todos.|IMPRODUTIVO
+Boa tarde, só para mandar cumprimentos rápidos.|IMPRODUTIVO
+Feliz Páscoa, aproveitem os momentos com a família.|IMPRODUTIVO
+Olá equipe, espero que o dia esteja sendo tranquilo.|IMPRODUTIVO
+Boa noite, apenas para desejar descanso e paz.|IMPRODUTIVO
+Feliz Natal! Que seja um momento de reflexão e alegria.|IMPRODUTIVO
+Bom dia, desejo uma ótima semana a todos.|IMPRODUTIVO
+Olá, enviando cumprimentos rápidos para a equipe.|IMPRODUTIVO
+Boa tarde, espero que todos estejam bem de saúde.|IMPRODUTIVO
+Feliz Ano Novo! Que todos os projetos sejam bem-sucedidos.|IMPRODUTIVO
+Olá, apenas passando para desejar uma boa tarde.|IMPRODUTIVO
+Boa noite, espero que todos tenham um ótimo descanso.|IMPRODUTIVO
+Bom dia, desejo que a semana seja positiva para todos.|IMPRODUTIVO
+Olá, envio uma saudação rápida a todos.|IMPRODUTIVO
+Feliz carnaval, momentos de diversão e descanso.|IMPRODUTIVO
+Boa tarde, apenas lembrando que estou à disposição.|IMPRODUTIVO
+Olá equipe, só para enviar cumprimentos rápidos.|IMPRODUTIVO
+Bom dia, que todos tenham um excelente início de semana.|IMPRODUTIVO
+Feliz Ano Novo! Que todos tenham saúde e sucesso.|IMPRODUTIVO
+Boa noite, passando apenas para desejar paz e tranquilidade.|IMPRODUTIVO
+Olá, envio uma saudação cordial a todos.|IMPRODUTIVO
+Bom dia, espero que todos tenham um ótimo dia de trabalho.|IMPRODUTIVO
+Feliz Natal, que todos aproveitem momentos especiais com a família.|IMPRODUTIVO
+Olá equipe, apenas para cumprimentar a todos.|IMPRODUTIVO
+Boa tarde, desejo boas energias para todos nesta semana.|IMPRODUTIVO
+Olá, enviando uma mensagem de cordialidade.|IMPRODUTIVO
+Boa noite, que todos tenham um descanso reparador.|IMPRODUTIVO
+Feliz Ano Novo! Que todos os planos se realizem.|IMPRODUTIVO
+Bom dia, apenas para desejar um excelente dia.|IMPRODUTIVO
+Olá, espero que todos tenham uma boa terça-feira.|IMPRODUTIVO
+Boa tarde, só passando para mandar cumprimentos.|IMPRODUTIVO
+Feliz Páscoa, momentos de alegria e união familiar.|IMPRODUTIVO
+Olá equipe, enviando uma saudação rápida.|IMPRODUTIVO
+Boa noite, espero que a semana esteja indo bem para todos.|IMPRODUTIVO
+Bom dia, que todos tenham uma quarta-feira positiva.|IMPRODUTIVO
+Feliz carnaval, aproveitem os momentos de lazer.|IMPRODUTIVO
+Olá, apenas para desejar um bom dia a todos.|IMPRODUTIVO
+Boa tarde, passando para enviar cumprimentos rápidos.|IMPRODUTIVO
+Feliz Ano Novo! Que todos tenham sucesso e saúde.|IMPRODUTIVO
+Bom dia, envio cumprimentos a todos os colegas.|IMPRODUTIVO
+Olá equipe, espero que todos estejam bem nesta quinta-feira.|IMPRODUTIVO
+Boa noite, apenas uma saudação cordial.|IMPRODUTIVO
+Feliz Natal! Que todos aproveitem momentos de felicidade.|IMPRODUTIVO
+Olá, desejo um ótimo final de semana para todos.|IMPRODUTIVO
+Boa tarde, espero que todos tenham uma ótima sexta-feira.|IMPRODUTIVO
+Bom dia, passando para cumprimentar toda a equipe.|IMPRODUTIVO
+Feliz Ano Novo, que todos os projetos sejam bem-sucedidos.|IMPRODUTIVO
+Olá equipe, apenas enviando uma saudação rápida.|IMPRODUTIVO
+Boa noite, desejo descanso e momentos de paz.|IMPRODUTIVO
+Boa Tarde, desejo feliz natal a toda equipe, boas festas.|IMPRODUTIVO
+Boa tarde, apenas para informar que estarei ausente amanhã. |IMPRODUTIVO
+Olá equipe, desejo boas festas a todos! |IMPRODUTIVO
+Prezados, feliz ano novo! |IMPRODUTIVO
+Bom dia, só passando para avisar que o escritório estará fechado amanhã. |IMPRODUTIVO
+Olá, lembrete: reunião cancelada. |IMPRODUTIVO
+Boa tarde, parabéns pelo aniversário do João! |IMPRODUTIVO
+Prezada equipe, feliz carnaval a todos! |IMPRODUTIVO
+Bom dia, aviso rápido: o café da manhã será servido na sala de reuniões. |IMPRODUTIVO
+Olá, feliz páscoa! |IMPRODUTIVO
+Boa noite, apenas informando que o sistema estará em manutenção à noite. |IMPRODUTIVO
+Prezados, só lembrando do horário de verão que começa amanhã. |IMPRODUTIVO
+Bom dia, lembrando que a água do bebedouro estará indisponível hoje pela manhã. |IMPRODUTIVO
+Olá, feliz dia das mães para todos! |IMPRODUTIVO
+Boa tarde, só passando para desejar um ótimo feriado a todos. |IMPRODUTIVO
+Prezada equipe, feliz dia dos pais! |IMPRODUTIVO
+Bom dia, aviso: o elevador estará fora de operação durante a manutenção. |IMPRODUTIVO
+Olá, feliz dia internacional da mulher! |IMPRODUTIVO
+Boa tarde, apenas para informar que a impressora estará desligada hoje. |IMPRODUTIVO
+Prezados, lembrando que a coleta de lixo será feita mais cedo hoje. |IMPRODUTIVO
+Bom dia, feliz sexta-feira a todos! |IMPRODUTIVO
+Olá equipe, apenas para comunicar que o ar-condicionado estará desligado hoje. |IMPRODUTIVO
+Boa noite, feliz natal! |IMPRODUTIVO
+Prezada equipe, boas festas e um ótimo ano novo! |IMPRODUTIVO
+Bom dia, só passando para avisar que a cafeteria estará fechada hoje. |IMPRODUTIVO
+Olá, lembrando que o estacionamento estará ocupado durante o evento. |IMPRODUTIVO
+Boa tarde, feliz dia do trabalho! |IMPRODUTIVO
+Prezados, apenas informando que a porta principal ficará trancada durante a noite. |IMPRODUTIVO
+Bom dia, só para avisar que a luz do corredor estará desligada por manutenção. |IMPRODUTIVO
+Olá, parabéns pelo esforço da equipe nesta semana! |IMPRODUTIVO
+Boa tarde, feliz páscoa a todos! |IMPRODUTIVO
+Prezada equipe, lembrando que a reunião social foi cancelada. |IMPRODUTIVO
+Bom dia, aviso rápido: o bebedouro estará em manutenção. |IMPRODUTIVO
+Olá, feliz aniversário ao time de marketing! |IMPRODUTIVO
+Boa noite, apenas lembrando do recesso de fim de ano. |IMPRODUTIVO
+Prezados, feliz dia da secretária! |IMPRODUTIVO
+Bom dia, aviso: o portão principal será fechado durante a madrugada. |IMPRODUTIVO
+Olá equipe, só passando para desejar um ótimo feriado prolongado. |IMPRODUTIVO
+Boa tarde, feliz semana a todos! |IMPRODUTIVO
+Prezados, apenas comunicando que a entrega de correspondência será feita mais tarde. |IMPRODUTIVO
+Bom dia, lembrete: a reunião de confraternização será apenas na sexta-feira. |IMPRODUTIVO

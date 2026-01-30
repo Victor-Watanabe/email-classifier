@@ -1,142 +1,109 @@
-preciso do relatório financeiro do mês passado
-favor enviar o relatório de despesas atualizado
-pode me informar o status da minha solicitação
-qual o andamento do processo de aprovação
-estou aguardando retorno sobre o chamado aberto
-houve algum erro no sistema ontem à noite
-o sistema apresentou falha ao tentar acessar o portal
-não consigo acessar minha conta corporativa
-senha expirada preciso redefinir acesso
-meu usuário foi bloqueado após várias tentativas
-
-favor anexar os documentos solicitados
-envio em anexo o contrato assinado
-segue em anexo a nota fiscal para conferência
-documento incompleto favor reenviar
-arquivo corrompido não abre corretamente
-
-preciso de ajuda com o sistema interno
-como faço para atualizar meus dados cadastrais
-onde posso encontrar o manual do usuário
-há algum tutorial para utilização da plataforma
-necessito de suporte técnico com urgência
-
-o pagamento ainda não foi processado
-houve atraso no pagamento do fornecedor
-nota fiscal rejeitada pelo financeiro
-qual o prazo para liberação do pagamento
-valor incorreto na fatura recebida
-
-reunião agendada para amanhã às dez horas
-precisamos remarcar a reunião da equipe
-confirmação de presença na reunião semanal
-ata da reunião anterior em anexo
-pauta da reunião será enviada em breve
-
-feliz natal e boas festas a todos
-desejo um ótimo ano novo
-parabéns pelo excelente trabalho
-agradeço pela ajuda e atenção
-muito obrigado pelo suporte prestado
-
-bom dia tudo bem
-boa tarde pessoal
-boa noite equipe
-espero que estejam bem
-tenha um excelente dia
-
-estou de férias na próxima semana
-retorno ao trabalho na segunda feira
-afastamento temporário por motivos pessoais
-licença médica até o final do mês
-estarei indisponível durante o período
-
-preciso atualizar o cadastro do cliente
-alteração de endereço e telefone
-dados cadastrais incorretos no sistema
-favor corrigir informações do cliente
-registro duplicado encontrado na base
-
-solicitação de compra aprovada
-pedido de material para o setor
-requisição em análise pelo gestor
-ordem de serviço criada com sucesso
-processo finalizado com êxito
-
-preciso do relatório financeiro consolidado do trimestre
-solicito envio do demonstrativo de resultados atualizado
-pode encaminhar o relatório de custos operacionais
-aguardo retorno sobre a solicitação enviada anteriormente
-qual o status do pedido registrado no sistema
-
-houve falha ao processar a requisição no sistema interno
-erro ao autenticar usuário na plataforma corporativa
-instabilidade detectada no acesso remoto
-sistema apresentou lentidão durante a manhã
-portal indisponível para alguns usuários
-
-não consigo acessar meu e-mail corporativo
-senha expirada ao tentar login
-conta bloqueada após tentativas incorretas
-necessário redefinir credenciais de acesso
-problemas de permissão no sistema
-
-segue em anexo a documentação solicitada
-favor confirmar recebimento dos arquivos enviados
-documento pendente de validação
-arquivo anexado para conferência
-contrato assinado conforme solicitado
-
-preciso de suporte técnico para resolver o problema
-como proceder para abertura de chamado
-existe manual atualizado do sistema
-onde encontro o guia do usuário
-necessário treinamento na plataforma
-
-pagamento não identificado na data prevista
-financeiro solicita ajuste na nota fiscal
-valor divergente na fatura recebida
-prazo de pagamento ultrapassado
-pendência financeira em aberto
-
-reunião agendada para alinhamento de demandas
-solicito reagendamento da reunião semanal
-confirmação de presença na call de hoje
-pauta será compartilhada antes do encontro
-ata da reunião anterior disponível
-
-bom dia equipe
-boa tarde a todos
-boa noite pessoal
-espero que estejam bem
-mensagem apenas para acompanhamento
-
-parabéns pelo ótimo trabalho
-agradeço pela colaboração
-obrigado pelo retorno rápido
-feliz natal a todos
-boas festas
-
-estarei ausente amanhã
-retorno às atividades na próxima semana
-licença médica registrada no sistema
-afastamento temporário aprovado
-estou em período de férias
-
-necessário atualizar cadastro do cliente
-alteração de dados cadastrais solicitada
-endereço incorreto na base
-telefone desatualizado
-registro duplicado encontrado
-
-pedido de compra em análise
-requisição aprovada pelo gestor
-ordem de serviço finalizada
-material entregue ao setor
-processo concluído com sucesso
-
-mensagem informativa
-apenas para ciência
-sem necessidade de ação
-sem novidades no momento
-comunicado interno
+Bom dia equipe, preciso que revisem o relatório financeiro do último mês e me enviem feedback até sexta-feira.
+Prezada equipe de TI, houve uma instabilidade no servidor ontem à noite; por favor, verificar e reportar.
+Olá João, poderia atualizar a planilha de controle de estoque com os novos dados do mês corrente?
+Prezada Maria, encaminho em anexo os contratos assinados para conferência e assinatura final.
+Equipe de QA, solicito que rodem os testes automáticos do sistema antes da implantação na próxima segunda-feira.
+Bom dia, favor confirmar se todos os documentos solicitados foram recebidos e estão corretos.
+Prezado fornecedor, precisamos da confirmação da entrega parcial do pedido antes do envio do restante.
+Olá equipe, estou consolidando os relatórios de vendas; por favor, enviem os números atualizados até amanhã.
+Prezada equipe de RH, solicito envio das férias programadas para o próximo trimestre para atualização do calendário.
+Bom dia, lembrando que o backup do sistema será realizado hoje à noite; garantir que todos os dados estejam salvos.
+Prezada equipe, houve falha ao processar a requisição no sistema interno, necessitamos análise urgente.
+Olá, favor validar os dados da planilha de auditoria e retornar com observações até sexta-feira.
+Prezada Maria, encaminho os documentos fiscais pendentes para conferência do departamento financeiro.
+Bom dia João, preciso que verifique as inconsistências detectadas no CRM e envie relatório detalhado.
+Equipe de suporte, identificamos erro recorrente na autenticação do portal; por favor, analisar e resolver.
+Prezada equipe de marketing, solicito aprovação da campanha digital antes do lançamento previsto para terça-feira.
+Olá equipe, favor confirmar presença na reunião de alinhamento às 14h desta quarta-feira.
+Prezada Maria, gentileza revisar os contratos pendentes e retornar com status atualizado.
+Bom dia, alerto que houve atraso no processamento dos pagamentos dos fornecedores; ações corretivas são necessárias.
+Equipe de TI, verificar a atualização de segurança no sistema de armazenamento em nuvem.
+Olá João, poderia enviar o resumo das pendências do projeto até o final do dia?
+Prezada equipe de RH, atualizar cadastro de colaboradores e enviar lista finalizada para o departamento.
+Bom dia, favor encaminhar a ata da última reunião com todos os tópicos discutidos.
+Prezada Maria, revisar e aprovar a proposta enviada pelo setor jurídico antes do envio ao cliente.
+Olá equipe, detectar e corrigir inconsistências nos dados do inventário do mês de janeiro.
+Bom dia, alerto sobre possíveis falhas no sistema de integração de pagamentos; análise urgente.
+Prezada equipe, anexar os contratos finalizados à pasta compartilhada e confirmar recebimento.
+Olá João, atualizar o dashboard com os indicadores do último trimestre até o final do dia.
+Equipe de suporte, favor verificar a falha identificada na aplicação web que impede login de usuários.
+Prezada Maria, encaminhar relatório detalhado das vendas do mês passado para conferência.
+Bom dia, lembrete de que a manutenção programada ocorrerá no sábado às 22h.
+Olá equipe, revisar solicitações de férias pendentes e atualizar o calendário corporativo.
+Prezada equipe, favor validar todos os registros de clientes inseridos no sistema esta semana.
+Bom dia, alerto que houve inconsistência no processamento do boleto de pagamento do fornecedor.
+Olá João, encaminhar documentos pendentes da auditoria para conferência do departamento financeiro.
+Prezada Maria, atualizar planilha de acompanhamento do projeto e enviar versão finalizada.
+Equipe de TI, identificar causa da lentidão no servidor durante a manhã e apresentar relatório.
+Bom dia, favor verificar se todos os contratos assinados foram arquivados corretamente.
+Olá equipe, atualizar status das solicitações abertas no sistema interno de chamados.
+Prezada Maria, revisar relatórios financeiros antes da consolidação mensal.
+Bom dia João, favor validar os dados de inventário recebidos do setor de logística.
+Equipe de suporte, identificar erro na autenticação multifator do portal corporativo.
+Olá equipe, consolidar informações de tickets de atendimento e enviar resumo semanal.
+Prezada Maria, encaminhar notas fiscais pendentes para validação e registro.
+Bom dia, alerto que houve atraso na entrega do material solicitado pelo setor de compras.
+Olá João, revisar todos os contratos de fornecedores antes da assinatura final.
+Prezada equipe, verificar inconsistências detectadas na base de dados de clientes.
+Bom dia, favor enviar planilha com os indicadores de produtividade da equipe de vendas.
+Olá equipe, revisar todos os chamados técnicos abertos e priorizar os críticos.
+Prezada Maria, encaminhar documentos para registro no sistema contábil antes do fechamento do mês.
+Bom dia João, atualizar dashboard com os KPIs de desempenho da equipe.
+Equipe de TI, verificar falha de conexão no servidor de arquivos e corrigir imediatamente.
+Olá equipe, consolidar todas as solicitações de férias e enviar relatório completo.
+Prezada Maria, validar os contratos de prestação de serviços antes da assinatura do cliente.
+Bom dia, alerto sobre instabilidade na aplicação web durante a madrugada.
+Olá João, favor revisar a planilha de controle de estoque e atualizar os valores incorretos.
+Equipe de suporte, identificar problemas na integração entre os sistemas e propor solução.
+Prezada equipe, anexar relatórios de auditoria à pasta compartilhada e confirmar recebimento.
+Bom dia, verificar se todos os emails de solicitação de atendimento foram respondidos.
+Olá equipe, consolidar as informações das reuniões realizadas e enviar ata finalizada.
+Prezada Maria, revisar documentação pendente e encaminhar para aprovação do jurídico.
+Bom dia João, alerto que houve inconsistência na geração do relatório de vendas.
+Equipe de TI, atualizar versão do software nos terminais de todos os colaboradores.
+Olá equipe, verificar solicitações de acesso pendentes e liberar para usuários autorizados.
+Prezada Maria, encaminhar planilha com dados atualizados do setor de compras.
+Bom dia, alerto sobre lentidão no portal corporativo durante o horário de pico.
+Olá João, revisar todas as notas fiscais pendentes antes do fechamento contábil.
+Equipe de suporte, identificar falhas recorrentes no sistema de chamados internos.
+Prezada equipe, consolidar informações dos contratos assinados e enviar relatório final.
+Bom dia, favor atualizar cadastro de clientes com informações recentes.
+Olá equipe, revisar pendências de projeto e enviar relatório detalhado.
+Prezada Maria, enviar documentos para análise do departamento jurídico.
+Bom dia João, alerto que houve falha na integração do sistema financeiro.
+Equipe de TI, atualizar políticas de backup e confirmar execução correta.
+Olá equipe, consolidar relatórios de vendas e enviar planilha atualizada.
+Prezada Maria, revisar contratos de fornecedores antes do fechamento do mês.
+Bom dia, alerto sobre inconsistências no sistema de aprovação de pagamentos.
+Olá João, validar documentos fiscais recebidos e reportar divergências.
+Equipe de suporte, identificar falha na aplicação que impede registro de chamados.
+Prezada equipe, atualizar lista de colaboradores com informações recentes.
+Bom dia, favor enviar planilha consolidada de indicadores do setor financeiro.
+Olá equipe, revisar chamados abertos e priorizar resolução de urgentes.
+Prezada Maria, validar contratos assinados e arquivar corretamente.
+Bom dia João, alerto sobre falhas no sistema de autenticação de usuários.
+Equipe de TI, realizar manutenção corretiva nos servidores críticos.
+Olá equipe, consolidar informações de tickets pendentes e enviar relatório.
+Prezada Maria, encaminhar documentos contábeis pendentes para conferência.
+Bom dia, alerto sobre indisponibilidade temporária do portal durante atualização.
+Olá João, revisar planilha de estoque e atualizar registros incorretos.
+Equipe de suporte, identificar problemas na plataforma de comunicação interna.
+Prezada equipe, consolidar relatórios mensais e enviar para diretoria.
+Bom dia, favor verificar consistência dos dados do sistema de CRM.
+Olá equipe, revisar documentos pendentes e enviar para aprovação.
+Prezada Maria, encaminhar relatórios de pendências do mês anterior.
+Bom dia João, alerto sobre falhas no envio de emails corporativos.
+Equipe de TI, monitorar servidores e alertar sobre inconsistências críticas.
+Olá equipe, consolidar informações de auditoria e enviar para análise.
+Prezada Maria, revisar planilhas de indicadores e enviar relatório atualizado.
+Bom dia, alerto sobre falha na atualização do software de gestão.
+Olá João, revisar dados cadastrais de clientes e atualizar registros.
+Equipe de suporte, identificar falha no sistema de emissão de relatórios.
+Prezada equipe, consolidar todas as solicitações de compra e enviar planilha final.
+Bom dia, favor validar a atualização dos dados de inventário.
+Olá equipe, revisar pendências financeiras e enviar relatório detalhado.
+Prezada Maria, encaminhar contratos de fornecedores para registro final.
+Bom dia João, alerto sobre instabilidade no portal interno da empresa.
+Equipe de TI, realizar auditoria no sistema de segurança da informação.
+Olá equipe, consolidar informações de reuniões e enviar ata oficial.
+Prezada Maria, revisar relatórios de desempenho e enviar planilha final.
