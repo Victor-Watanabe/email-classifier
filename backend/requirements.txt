@@ -1,18 +1,21 @@
-# Framework Web e Servidor ASGI
+# Backend framework
 fastapi
 uvicorn[standard]
 
-# Configuração e Validação
-python-dotenv      # Carregamento de variáveis de ambiente (.env)
-pydantic           # Validação e tipagem de dados
+# Env & validação
+python-dotenv
+pydantic
 
-# Inteligência Artificial / LLM
-google-generativeai  # Integração com a API do Gemini
+# Upload de arquivos / FormData
+python-multipart
 
-# Processamento de Arquivos
-pypdf              # Extração de texto de arquivos PDF
+# PDF processing
+pypdf
 
-# NLP e Machine Learning
-spacy              # Pré-processamento de linguagem natural
-scikit-learn       # Modelos de ML (TF-IDF, Logistic Regression)
-joblib             # Serialização de modelos e vetorizadores
+# Machine Learning / NLP
+scikit-learn
+joblib
+spacy
+
+# LLM (Gemini)
+google-generativeai

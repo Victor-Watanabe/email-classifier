@@ -1,86 +1,44 @@
 import google.generativeai as genai
-from app.config import GEMINI_API_KEY
 import json
+from app.config import GEMINI_API_KEY
 
-# Configura a API com a key
 genai.configure(api_key=GEMINI_API_KEY)
 
-# Modelo base
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 
-def query_gemini(email_text: str):
-    """
-    Envia um email para a Gemini API para classificação e sugestão de resposta.
-
-    Parâmetros:
-        email_text (str): texto do email recebido
-
-    Retorno:
-        dict: {
-            "classification": "PRODUTIVO ou IMPRODUTIVO",
-            "suggested_reply": str,
-            "justification": str
-        }
-    """
+def query_gemini(email_text: str) -> dict:
     prompt = f"""
-Você é um sistema automatizado responsável por analisar e classificar
-emails recebidos por uma grande empresa do setor financeiro.
+Classifique o email abaixo como PRODUTIVO ou IMPRODUTIVO
+e sugira uma resposta automática profissional.
 
-Contexto:
-A empresa recebe um alto volume diário de emails, incluindo solicitações
-de status de processos, envio de documentos e mensagens improdutivas.
-O objetivo é automatizar a triagem, liberando tempo da equipe humana.
-
-Tarefa:
-Analise o email abaixo e:
-
-1. Classifique o conteúdo como PRODUTIVO ou IMPRODUTIVO.
-2. Sugira uma resposta automática adequada ao tipo identificado.
-
-Critérios de Classificação:
-
-PRODUTIVO:
-- Solicitações de andamento ou status de processos
-- Envio ou solicitação de documentos
-- Dúvidas sobre serviços, contratos ou operações
-- Mensagens que exigem ação ou resposta da equipe
-
-IMPRODUTIVO:
-- Mensagens de felicitação ou cortesia (ex: "feliz natal", "bom dia")
-- Agradecimentos sem nova solicitação
-- Conteúdo genérico, irrelevante ou sem demanda clara
-
-Formato de Resposta:
-Responda EXCLUSIVAMENTE no seguinte formato JSON:
+Responda SOMENTE em JSON válido neste formato:
 
 {{
   "classification": "PRODUTIVO ou IMPRODUTIVO",
-  "suggested_reply": "Resposta automática profissional e objetiva",
-  "justification": "Breve explicação da decisão"
+  "suggested_reply": "Resposta objetiva",
+  "justification": "Breve explicação"
 }}
 
-Texto:
-"{email_text}"
+Email:
+\"\"\"{email_text}\"\"\"
 """
 
-    # Envia prompt para o modelo
     response = model.generate_content(prompt)
     text = response.text.strip()
 
-    # Remove bloco de crases se existir (```json ... ```)
-    if text.startswith("```") and text.endswith("```"):
-        text_lines = text.split("\n")
-        # Remove a primeira e última linha do bloco de crases
-        text = "\n".join(text_lines[1:-1])
+    if text.startswith("```"):
+        text = "\n".join(text.split("\n")[1:-1])
 
-    # Converte texto em dict
     try:
-        return json.loads(text)
-    except json.JSONDecodeError:
-        # Fallback caso não seja JSON válido
+        parsed = json.loads(text)
+        parsed["classification"] = parsed["classification"].upper()
+        return parsed
+    except Exception:
         return {
-            "classification": "Desconhecido",
-            "suggested_reply": response.text,
-            "justification": "Resposta não padronizada pelo modelo Gemini"
+            "classification": "IMPRODUTIVO",
+            "suggested_reply": (
+                "Olá! Recebemos sua mensagem e ela será analisada em breve."
+            ),
+            "justification": "Falha ao interpretar resposta do Gemini."
         }
