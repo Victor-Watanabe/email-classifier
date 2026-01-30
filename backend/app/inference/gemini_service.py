@@ -1,5 +1,3 @@
-# backend/app/avaliation/gemini_service.py
-
 import google.generativeai as genai
 from app.config import GEMINI_API_KEY
 import json

@@ -1,7 +1,7 @@
 import os
 import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
-from app.nlp.preprocess import preprocess_text
+from app.pipeline.preprocess import preprocess_text
 
 # ============================
 # Paths absolutos do projeto

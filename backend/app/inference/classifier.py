@@ -2,23 +2,24 @@
 
 import joblib
 import os
+#import csv
+
 from typing import Dict
+from app.pipeline.preprocess import preprocess_text
+from app.pipeline.vectorizer import transform_text, set_vectorizer
+from ..inference.gemini_service import query_gemini
 
-from app.nlp.preprocess import preprocess_text
-from app.nlp.vectorizer import transform_text, set_vectorizer
-from app.inference.gemini_service import query_gemini
-
-# ============================
 # Paths dos modelos
-# ============================
 MODEL_PATH = "app/models/classifier.joblib"
 VECTORIZER_PATH = "app/models/vectorizer.joblib"
 
-# ============================
+# Dataset incremental (Gemini)
+# DATASET_DIR = "app/training/datasets"
+# DATASET_PATH = f"{DATASET_DIR}/gemini_feedback.csv"
+
 # Configurações
-# ============================
 CONFIDENCE_THRESHOLD = 0.75
-MIN_TOKEN_LENGTH = 3  # evita textos vazios ou irrelevantes
+MIN_TOKEN_LENGTH = 3
 
 # ============================
 # Respostas fixas (SEM Gemini)
@@ -33,9 +34,7 @@ FIXED_REPLIES = {
     )
 }
 
-# ============================
 # Load models
-# ============================
 if not os.path.exists(MODEL_PATH) or not os.path.exists(VECTORIZER_PATH):
     raise FileNotFoundError(
         "Modelos ou vectorizer não encontrados. Treine antes de iniciar."
@@ -46,38 +45,45 @@ set_vectorizer(trained_vectorizer)
 
 classifier_model = joblib.load(MODEL_PATH)
 
-# ============================
 # Confidence calibration
-# ============================
 def boost_confidence(confidence: float) -> float:
-    """
-    Reduz o excesso de cautela da Logistic Regression
-    sem alterar a classe prevista.
-    """
     if confidence >= 0.5:
         return min(1.0, confidence ** 0.5)
     return confidence
 
-# ============================
+# 🔮 FUNÇÃO FUTURA (COMENTADA)
+# 
+# def save_gemini_feedback(email_text: str, classification: str):
+#     """
+#     FUTURO:
+#     Salva classificações realizadas pelo Gemini em um CSV
+#     para aprendizado supervisionado incremental.
+#
+#     ⚠️ Este recurso está DESABILITADO no momento.
+#     A proposta é permitir que um humano revise os dados
+#     antes de re-treinar o modelo local.
+#     """
+#
+#     os.makedirs(DATASET_DIR, exist_ok=True)
+#     file_exists = os.path.exists(DATASET_PATH)
+#
+#     with open(DATASET_PATH, mode="a", newline="", encoding="utf-8") as file:
+#         writer = csv.writer(file)
+#
+#         if not file_exists:
+#             writer.writerow(["email_text", "classification"])
+#
+#         writer.writerow([email_text, classification])
+
 # Classificação principal
-# ============================
 def classify_email(text: str) -> Dict:
-    """
-    Classifica um email como PRODUTIVO ou IMPRODUTIVO.
-
-    Fluxo:
-    - Regra de negócio para textos vazios/curtos
-    - Classificação local (TF-IDF + Logistic Regression)
-    - Fallback para Gemini em caso de baixa confiança
-    """
-
     print("🔹 Texto original:", text)
 
     # 1️⃣ Pré-processamento
     clean_text = preprocess_text(text)
     print("🔹 Texto pré-processado:", clean_text)
 
-    # 🚨 REGRA DE NEGÓCIO: texto vazio ou irrelevante
+    # 🚨 REGRA DE NEGÓCIO
     if not clean_text or len(clean_text.split()) < MIN_TOKEN_LENGTH:
         result = {
             "text": text,
@@ -87,7 +93,6 @@ def classify_email(text: str) -> Dict:
             "source": "rule_based",
             "note": "Texto vazio, curto ou sem conteúdo acionável."
         }
-        print("🔹 Resultado final (regra de negócio):", result)
         return result
 
     # 2️⃣ Vetorização
@@ -102,35 +107,34 @@ def classify_email(text: str) -> Dict:
 
     print(
         f"🔹 Predição local: {prediction}, "
-        f"Confiança bruta: {raw_confidence:.3f}, "
         f"Confiança ajustada: {confidence:.3f}"
     )
 
-    # 4️⃣ Confiança suficiente → usa IA LOCAL
+    # 4️⃣ Confiança suficiente → modelo local
     if confidence >= CONFIDENCE_THRESHOLD:
-        result = {
+        return {
             "text": text,
             "prediction": prediction,
             "confidence": round(float(confidence), 3),
             "reply": FIXED_REPLIES[prediction],
             "source": "local_model"
         }
-        print("🔹 Resultado final (modelo local):", result)
-        return result
 
-    # 5️⃣ Confiança baixa → fallback Gemini
-    print("⚠️ Confiança abaixo do threshold. Consultando Gemini...")
+    # 5️⃣ Confiança baixa → Gemini
+    print("⚠️ Confiança baixa. Consultando Gemini...")
 
     gemini_response = query_gemini(text)
+    gemini_classification = gemini_response.get("classification")
 
-    result = {
+    # 🧠 Salva para aprendizado futuro
+    #if gemini_classification:
+    #   save_gemini_feedback(text, gemini_classification)
+
+    return {
         "text": text,
-        "prediction": gemini_response.get("classification"),
+        "prediction": gemini_classification,
         "reply": gemini_response.get("suggested_reply"),
         "justification": gemini_response.get("justification"),
         "confidence": round(float(confidence), 3),
         "source": "gemini_fallback"
     }
-
-    print("🔹 Resultado final (Gemini):", result)
-    return result

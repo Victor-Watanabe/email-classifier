@@ -4,8 +4,8 @@ from sklearn.metrics import accuracy_score, precision_score, classification_repo
 import joblib
 import os
 
-from app.nlp.preprocess import preprocess_text
-from app.nlp.vectorizer import set_vectorizer, transform_text
+from app.pipeline.preprocess import preprocess_text
+from app.pipeline.vectorizer import set_vectorizer, transform_text
 
 
 DATASET_PATH = "app/training/datasets/classifier.txt"
