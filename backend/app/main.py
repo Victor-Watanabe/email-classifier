@@ -10,7 +10,7 @@ app = FastAPI(title="Email Classifier API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://email-classifierautoai.netlify.app/"], # Quais domínios podem acessar.
+    allow_origins=["https://email-classifierautoai.netlify.app"], # Quais domínios podem acessar.
     allow_credentials=True,
     allow_methods=["*"], # Metodos aceito POST, GET, ETC.
     allow_headers=["*"],
