@@ -10,7 +10,7 @@ pydantic
 python-multipart
 
 # PDF processing
-pypdf
+pypdf2
 
 # Machine Learning / NLP
 scikit-learn
