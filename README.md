@@ -42,6 +42,16 @@ Python 3.8+
 
 Pip ou ambiente virtual (venv / conda)
 
+Chave do Google Gemini: para utilizar a LLM do projeto, você precisa de uma chave de API válida.
+
+⚠️ Importante:
+Crie um arquivo .env na raiz do backend e adicione sua chave do Gemini:
+
+GEMINI_API_KEY=Sua_Chave_Aqui
+
+
+Sem essa chave, a funcionalidade de geração de respostas automáticas não funcionará.
+
 🧠 Como Funciona
 
 Pré-processamento: limpeza de texto, tokenização, vetorização.
@@ -56,4 +66,32 @@ Sugestão de Resposta: LLM (Gemini) gera respostas automáticas, quando habilita
 
 Métricas de desempenho: acurácia, F1-score, precisão, recall
 
+🔧 Instalação e execução
+
+Clone o repositório:
+
+git clone https://github.com/Victor-Watanabe/email-classifier.git
+cd email-classifier
+
+
+Crie e ative um ambiente virtual:
+
+python3 -m venv venv
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
+
+
+Instale as dependências:
+
+pip install -r backend/requirements.txt
+
+
+Executar com modelos pré-treinados (recomendado para teste rápido):
+
+python backend/app.py
+
+
+Os modelos já estão treinados e podem ser usados diretamente.
+
 Matriz de confusão para análise detalhada de classificação
+
